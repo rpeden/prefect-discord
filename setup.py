@@ -12,7 +12,7 @@ with open("README.md") as readme_file:
     readme = readme_file.read()
 
 setup(
-    name="prefect-discord",
+    name="prefect-2-discord",
     description="TA collection enabling integration between Prefect and Discord.",
     license="Apache License 2.0",
     author="Ryan Peden",
