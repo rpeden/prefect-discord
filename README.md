@@ -18,7 +18,7 @@
 
 ## Welcome!
 
-A collection containing a notification block making it easy to send messages and notifications from Prefect to a Discord channel. Read on for instructions on how to use the `DiscordWebhook` block.
+A collection containing a notification block making it easy to send messages and notifications from Prefect >= 2.4.1 to a Discord channel. Read on for instructions on how to use the `DiscordWebhook` block.
 
 ## Getting Started
 
