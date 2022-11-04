@@ -13,7 +13,7 @@ with open("README.md") as readme_file:
 
 setup(
     name="prefect-2-discord",
-    description="TA collection enabling integration between Prefect and Discord.",
+    description="A collection enabling integration between Prefect 2.4.1+ and Discord.",
     license="Apache License 2.0",
     author="Ryan Peden",
     author_email="ryan@rpeden.com",
