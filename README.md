@@ -35,7 +35,7 @@ These tasks are designed to work with Prefect 2. For more information about how 
 Install `prefect-discord` with `pip`:
 
 ```bash
-pip install git+https://github.com/rpeden/prefect-discord.git
+pip install prefect-2-discord
 ```
 
 Then, register to [view the block](https://orion-docs.prefect.io/ui/blocks/) on Prefect Cloud:
