@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://pypi.python.org/pypi/prefect-2-discord/" alt="PyPI version">
-        <img alt="PyPI" src="https://img.shields.io/pypi/v/prefect-discord?color=0052FF&labelColor=090422"></a>-->
+        <img alt="PyPI" src="https://img.shields.io/pypi/v/prefect-discord?color=0052FF&labelColor=090422"></a>
     <a href="https://github.com/rpeden/prefect-discord/" alt="Stars">
         <img src="https://img.shields.io/github/stars/rpeden/prefect-discord?color=0052FF&labelColor=090422" /></a>
     <a href="https://pepy.tech/badge/prefect-2-discord/" alt="Downloads">
