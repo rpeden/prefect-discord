@@ -18,7 +18,7 @@
 
 ## Welcome!
 
-A collection enabling integration between Prefect and Discord.
+A collection containing a notification block making it easy to send messages and notifications from Prefect to a Discord channel. Read on for instructions on how to use the `DiscordWebhook` block.
 
 ## Getting Started
 
