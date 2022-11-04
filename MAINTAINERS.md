@@ -56,7 +56,7 @@ pre-commit install
 
 To verify the setup was successful you can run the following:
 
-- Run the tests for tasks and flows in the collection:
+- Run the tests in the collection:
   ```bash
   pytest tests
   ```

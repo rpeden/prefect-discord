@@ -18,6 +18,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 
 ### Security
+## 0.1.0
+
+Released on November 4, 2022. 
+
+Updated PyPI project name.
 
 ## 0.1.0
 
