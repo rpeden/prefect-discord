@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/PrefectHQ/prefect-collection-template",
+  "commit": "f1db52cbcc7d45eaf7d1ffa494e5faf2627600a3",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Ryan Peden",
+      "email": "ryan@rpeden.com",
+      "github_organization": "rpeden",
+      "collection_name": "prefect-discord",
+      "collection_slug": "prefect_discord",
+      "collection_short_description": "TA collection enabling integration between Prefect and Discord.",
+      "_copy_without_render": [
+        ".github/workflows/*.yml"
+      ],
+      "_template": "https://github.com/PrefectHQ/prefect-collection-template"
+    }
+  },
+  "directory": null
+}
