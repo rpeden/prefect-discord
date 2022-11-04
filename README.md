@@ -5,8 +5,8 @@
         <img alt="PyPI" src="https://img.shields.io/pypi/v/prefect-2-discord?color=0052FF&labelColor=090422"></a>
     <a href="https://github.com/rpeden/prefect-discord/" alt="Stars">
         <img src="https://img.shields.io/github/stars/rpeden/prefect-discord?color=0052FF&labelColor=090422" /></a>
-    <a href="https://pepy.tech/badge/prefect-2-discord/" alt="Downloads">
-        <img src="https://img.shields.io/pypi/dm/prefect-2-discord?color=0052FF&labelColor=090422" /></a>
+    <!--<a href="https://pepy.tech/badge/prefect-2-discord/" alt="Downloads">
+        <img src="https://img.shields.io/pypi/dm/prefect-2-discord?color=0052FF&labelColor=090422" /></a>-->
     <a href="https://github.com/rpeden/prefect-discord/pulse" alt="Activity">
         <img src="https://img.shields.io/github/commit-activity/m/rpeden/prefect-discord?color=0052FF&labelColor=090422" /></a>
     <br>
